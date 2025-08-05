@@ -1,1 +1,1 @@
-This is a sample project tased bu ODIN - PROJECT to create a cookbook webpage using basic HTML
+This is a sample project provided by ODIN - PROJECT to create a cookbook webpage using basic HTML
